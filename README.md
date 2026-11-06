@@ -19,13 +19,13 @@ Site institucional de uma barbearia, desenvolvido com HTML e CSS puro.
 
 ## 📋 Sobre o Projeto
 
-Site completo de uma barbearia fictícia (Barbearia Alura), com páginas de:
+Site completo de uma barbearia fictícia (Barbearia), com páginas de:
 
 - **Home** — Apresentação da barbearia, missão e benefícios
 - **Produtos** — Lista de serviços com preços (Cabelo, Barba e Pacote)
 - **Contato** — Página de contato
 
-Projeto desenvolvido durante o curso de HTML e CSS da Alura, com foco em estruturação semântica e estilização.
+Projeto desenvolvido durante o curso de HTML e CSS, com foco em estruturação semântica e estilização.
 
 ---
 
@@ -43,7 +43,7 @@ Projeto desenvolvido durante o curso de HTML e CSS da Alura, com foco em estrutu
 ## 📁 Estrutura do Projeto
 
 ```
-htmlcss/   (recomendado renomear para barbearia-alura)
+htmlcss/   (recomendado renomear para barbearia)
 ├── index.html              # Página inicial
 ├── produtos.html           # Página de produtos/serviços
 ├── contato.html            # Página de contato
@@ -83,12 +83,12 @@ git clone https://github.com/Marcosmto/htmlcss.git
 
 O nome atual `htmlcss` é genérico. Para o portfólio, o ideal é:
 
-**`barbearia-alura`**
+**`barbearia`**
 
 ### Como renomear (30 segundos):
 
 1. Acesse: https://github.com/Marcosmto/htmlcss/settings
-2. Em **Repository name**, digite: `barbearia-alura`
+2. Em **Repository name**, digite: `barbearia`
 3. Clique em **Rename**
 
 Pronto! O GitHub Pages atualiza automaticamente.
