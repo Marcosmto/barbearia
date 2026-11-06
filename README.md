@@ -1,4 +1,4 @@
-# Barbearia Alura ✂️
+# Barbearia ✂️
 
 Site institucional de uma barbearia, desenvolvido com HTML e CSS puro.
 
