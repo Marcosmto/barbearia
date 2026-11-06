@@ -108,4 +108,4 @@ Espírito Santo, Brasil
 ## 📈 Sobre o Portfólio
 
 Este projeto faz parte do meu portfólio de desenvolvimento web front-end.  
-Foi desenvolvido durante o curso de HTML e CSS da Alura, com foco em estruturação e estilização de sites.
+Foi desenvolvido durante o curso de HTML e CSS, com foco em estruturação e estilização de sites.
